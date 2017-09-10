@@ -49,5 +49,8 @@ Em *Programação* *Orientada* a *Objetos* encapsular é ocultar detalhes da imp
 
 Para desfrutar desse benefício:
 
-- Mantenha suas variáveis de instância protegidas
+- mantenha suas variáveis de instância protegidas
 - crie propriedades (métodos de acesso) públicos e tome medidas para garantir que o código chamador use métodos em vez de acessar diretamente a variável de instância (váriável no escopo da classe e fora de qualquer método).
+- prime pela *coesão* e o *desacoplamento*.
+
+Veja esse [exemplo](exmplos/coesao_desacoplamento/) em Python para saber mais sobre os aspectos envolvendo encapsulamento e variáveis de referência.
