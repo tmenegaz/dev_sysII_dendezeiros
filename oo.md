@@ -40,7 +40,7 @@ Error:(14, 37) java: bad operand types for binary operator '*'
 ```
 não atribuindo nada ao objeto. Esse erro ocorre devido a tentativa de declarar uma operação inválida (declarar um operador binário para multiplicar o objeto 10 vezes). Quando removermos o operador binário e seu operador `* 10`, os *ids* dos objetos são gerados conforme a regra explicada acima: *a variável de referência é atribuida ao objeto*, apresentando os seus *ids* `356573597` e 
 `1735600054`.
-Kathy Sierra e Bert Bates (p. 29), afirmam que as variávesi de referência são usadas para acessar um objeto. Dito de outra firma uma vez que a varável de referência é atribuida ao objeto ela sabe o meio para acessar esse objeto.
+Kathy Sierra e Bert Bates (p. 29), afirmam que as variávesi de referência são usadas para acessar um objeto. Dito de outra forma uma vez que a varável de referência é atribuida ao objeto ela sabe o meio para acessar esse objeto.
 
 
 ## Benefícios do Encapsulamento
