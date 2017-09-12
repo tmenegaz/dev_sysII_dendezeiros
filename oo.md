@@ -1,7 +1,7 @@
 ## Variáveis de referência
 
-Conforme Luciano Ramalho nos ensina, as variáveis não são caixas. Essas variáveis, das quais ramalho se refere, são as variáveis de referência.
-Segundo o autor de Python Fluente, as variáveis são como rótulos ou etiquetas associados a objetos. Para entender melhor esse conceito tão presente em liguagens de programação orientadas a objetos como Python e Java, pensemos na atribuição então:
+Conforme Luciano Ramalho nos ensina, as variáveis não são caixas. Essas variáveis, das quais Ramalho se refere, são as *variáveis de referência*.
+Segundo o autor de Python Fluente, as variáveis são como rótulos ou etiquetas associados a objetos (p. 259). Para entender melhor esse conceito tão presente em liguagens de programação orientadas a objetos como Python e Java, pensemos na atribuição então:
 
 ```Python3
 p = Pessoa
@@ -53,4 +53,5 @@ Para desfrutar desse benefício:
 - crie propriedades (métodos de acesso) públicos e tome medidas para garantir que o código chamador use métodos em vez de acessar diretamente a variável de instância (váriável no escopo da classe e fora de qualquer método).
 - prime pela *coesão* e o *desacoplamento*.
 
-Veja esse [exemplo](exmplos/coesao_desacoplamento/) em Python para saber mais sobre os aspectos envolvendo encapsulamento e variáveis de referência.
+Veja esse [exemplo](exmplos/py/coesao_desacoplamento/) em Python para saber mais sobre os aspectos envolvendo encapsulamento e variáveis de referência, coesão e desacoplamento com `Python 3`.
+[Exemplo](exmplos/java/coesao_desacoplamento/) similar pode ser visto em `Java` também. 
