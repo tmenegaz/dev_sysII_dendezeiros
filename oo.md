@@ -1,3 +1,14 @@
+## Objeto
+
+Em Desenvolvimento de software *objetos* representam *entidades* do mundo real
+que serão referenciadas em sua aplicação. Essas *entidades* interagem entre si para resolver problemas do mundo reais em um mundo computacional.  
+Imagine que uma  `Pessoa` é uma *entidade* e `Carro` também é uma *entidade*.  
+Essa `Pessoa` dirige o carro para ir de um ponto `a`(*casa*) a um ponto `b`(*parque*).
+
+## Classes
+
+As classes ajudam os desenvolvedores de sistema de informação e represetar as *entidades* do mundo real na forma de *objetos*. As classe são como *templates* ou *projetos* que, portanto, podem ser facilmente reutilizadas.
+ 
 ## Variáveis de referência
 
 Conforme Luciano Ramalho nos ensina, as variáveis não são caixas. Essas variáveis, das quais Ramalho se refere, são as *variáveis de referência*.
