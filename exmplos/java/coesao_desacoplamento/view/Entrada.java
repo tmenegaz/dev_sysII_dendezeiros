@@ -22,15 +22,16 @@ public class Entrada {
     public Entrada() {
         for (int i = 0; i < parametro.length; i++) {
             if(parametro[2] == "data_nescimento"){
-                System.out.print("Digite a " + parametro[i]);
+                System.out.print("Digite a " + parametro[i] + " ");
             }
             else {
-                System.out.print("Digite o " + parametro[i]);
+                System.out.print("Digite o " + parametro[i] + " ");
             }
             this.dados.add(sc.nextLine());
         }
 
-        integra.desempacota(integra.acaoPessoa(getDados().set(0,"cpf"),
+        integra.desempacota(integra.acaoPessoa(
+                getDados().set(0,"cpf"),
                 getDados().set(1,"cnpj"),
                 getDados().set(2,"data_nescimento"),
                 getDados().set(3,"nome"),
