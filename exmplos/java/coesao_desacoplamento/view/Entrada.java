@@ -13,7 +13,7 @@ public class Entrada {
 
     private static final String[] parametro = {"cpf",
             "cnpj",
-            "data_nescimento",
+            "data_nascimento",
             "nome",
             "sobrenome"};
 
@@ -21,7 +21,7 @@ public class Entrada {
 
     public Entrada() {
         for (int i = 0; i < parametro.length; i++) {
-            if(parametro[2] == "data_nescimento"){
+            if(parametro[i] == "data_nascimento"){
                 System.out.print("Digite a " + parametro[i] + " ");
             }
             else {
