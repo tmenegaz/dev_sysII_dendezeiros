@@ -1,2 +1,2 @@
 # Atividade Ternário - Hibernate
-Atividade desenvolvida por Marcos Vinícius Cruz, turma 51184.
+Desenvolvida por Aryane Bacelar e Marcos Vinicius
