@@ -1,2 +1,2 @@
 # Atividade Jogo da Memória 
-Aluno: Marcos Vinicius
+Desenvolvido por Aryane Bacelar e Marcos Vinicius
