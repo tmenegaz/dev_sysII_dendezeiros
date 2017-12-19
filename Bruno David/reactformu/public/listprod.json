@@ -1,0 +1,19 @@
+[
+  {
+    "Grupo": "Cores",
+    "name": "Azul"
+  },
+  {
+    "Grupo": "Cores",
+    "name": "Amarelo"
+  },
+  {
+   "Grupo": "Cores",
+   "name": "Vermelho",
+   "price": "15"
+  },
+  {
+   "Grupo": "Cores",
+    "name": "Verde"
+  }
+]
